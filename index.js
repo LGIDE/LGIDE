@@ -2534,4 +2534,4 @@ if (attach) {
 })
 
 
-client.login("")
+client.login(process.env.token)
